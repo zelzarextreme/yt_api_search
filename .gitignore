@@ -1,0 +1,15 @@
+.vscode/
+.env
+
+# pycaches and migrations
+**/__pycache__/
+**/migrations/
+
+debug.log
+
+# database
+**.sqlite3
+
+# media
+media/
+static/media/
